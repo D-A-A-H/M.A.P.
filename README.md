@@ -5,4 +5,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://D-A-A-H.github.io/my-awesome-project/)
+- [Публичная страница на GitHub Pages](https://D-A-A-H.github.io/M.A.P./)
